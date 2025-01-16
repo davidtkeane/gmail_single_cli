@@ -127,8 +127,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [rangersmyth.74@gmail.com](mailto:your-email@example.com)
 
-Project Link: [https://github.com/yourusername/gmail-sender-script](https://github.com/yourusername/gmail-sender-script)
+Project Link: [https://github.com/davidtkeane/gmail_single_cli/](https://github.com/yourusername/gmail-sender-script)
 
 Made with ❤️ by David

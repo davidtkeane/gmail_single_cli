@@ -20,8 +20,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get email credentials from environment variables
-from_email = os.getenv("FROM_EMAIL")
-password = os.getenv("EMAIL_PASSWORD")
+from_email = os.getenv("EMAIL_USER_David")
+password = os.getenv("EMAIL_PASS_David")
 to_email = os.getenv("TO_EMAIL")
 
 subject = "Email sent by Python Script"
